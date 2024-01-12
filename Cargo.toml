@@ -5,6 +5,7 @@ edition = "2021"
 
 authors = ["A4-Tacks <wdsjxhno1001@163.com>"]
 keywords = ["macro", "iterator", "macro_rules", "unpack"]
+description = "Some useful macros related to iterators."
 
 license = "MIT"
 repository = "https://github.com/A4-Tacks/itermacros-rs"
